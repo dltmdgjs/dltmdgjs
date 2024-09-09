@@ -22,4 +22,4 @@ I'm interested in **Application development**. :smile: :iphone:
 ### 💻 Backjun (Problem Solving)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=naleesu2014)](https://solved.ac/naleesu2014)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer)
