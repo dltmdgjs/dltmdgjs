@@ -19,7 +19,6 @@ I'm interested in **Application development**. :smile: :iphone:
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-### 💻 Backjun (Problem Solving)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=naleesu2014)](https://solved.ac/naleesu2014)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer)
